@@ -1,0 +1,279 @@
+{"server": "4.14.1.0",
+  "user": {
+    "uid": "626becc9-d59f-465c-9eaa-369179d5f527",
+    "rights": [
+      1,
+      5,
+      7,
+      10,
+      12,
+      19,
+      26,
+      27,
+      29,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      42,
+      43,
+      44,
+      45,
+      50,
+      80,
+      100,
+      101,
+      102,
+      120,
+      122,
+      132,
+      134,
+      138,
+      140,
+      141,
+      142,
+      145,
+      152,
+      153,
+      154,
+      156,
+      159,
+      163,
+      164,
+      165,
+      166,
+      167,
+      169,
+      171,
+      175,
+      176,
+      177,
+      178,
+      186
+    ]
+  },
+  "dataFilter": 51,
+  "version": {
+    "main": 31776674,
+    "global": 31771870,
+    "settings": 331
+  },
+  "docs": [
+    {
+      "uid": "055d4167-937c-4258-95ae-5fd37d39c22f",
+      "docType": 34,
+      "categoryId": 172000,
+      "author": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+      "name": "ййййййййййййййййййййййййййййййййййййййййййййй",
+      "regNum": "ОП-148",
+      "regNo": 148,
+      "regDate": "2018-04-17T16:44:00",
+      "barcode": "000805915710",
+      "routeState": 5,
+      "importanceType": 0,
+      "sequence": 31776587,
+      "widgets": [
+        {
+          "wid": 16378,
+          "psid": [
+            1151588
+          ]
+        },
+        {
+          "wid": 16381,
+          "psid": [
+            1151589
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "isPrimary": true,
+          "version": 1,
+          "size": 25135,
+          "lastAccess": "0001-01-01T00:00:00",
+          "uid": "055d4167-937c-4258-95ae-5fd37d39c22f",
+          "name": "Текст поручения.pdf"
+        }
+      ],
+      "considerationStations": [
+        {
+          "id": 1151585,
+          "order": 1,
+          "group": 1,
+          "receiverUid": "626becc9-d59f-465c-9eaa-369179d5f527",
+          "resolutionType": 1,
+          "viewDate": "2018-04-17T17:42:00",
+          "workOffDate": "2018-04-17T17:42:00",
+          "state": 5,
+          "authorUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+          "userUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+          "created": "2018-04-17T17:42:00",
+          "modified": "2018-04-17T17:42:00"
+        },
+        {
+          "id": 1151586,
+          "parentId": 1151585,
+          "order": 2,
+          "group": 1,
+          "description": "54321",
+          "receiverUid": "407a80f3-04af-4b3d-aba3-f4f8a48611b2",
+          "resolution": "На исполнение",
+          "resolutionType": 1,
+          "resolutionAuthorUid": "626becc9-d59f-465c-9eaa-369179d5f527",
+          "controlDate": "2018-04-22T23:59:00",
+          "sendingDate": "2018-04-17T17:39:00",
+          "viewDate": "2018-04-17T17:42:00",
+          "state": 5,
+          "isMain": true,
+          "authorUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+          "userUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+          "created": "2018-04-17T17:42:00",
+          "modified": "2018-04-17T17:42:00"
+        }
+      ],
+      "approvalRoutes": [
+        {
+          "state": 7,
+          "description": "ййййййййййййййййййййййййййййййййййййййййййййй",
+          "controlDuration": 1440,
+          "controlDate": "2018-04-18T00:00:00",
+          "startDate": "2018-04-17T00:00:00",
+          "executiveUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+          "signerUid": "626becc9-d59f-465c-9eaa-369179d5f527",
+          "stages": [
+            {
+              "state": 3,
+              "stageType": 1,
+              "children": [
+                160963
+              ],
+              "stations": [
+                {
+                  "state": 3,
+                  "receiverUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+                  "receiverUID": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+                  "viewDate": "2018-04-17T17:43:00",
+                  "operations": 516,
+                  "order": 1,
+                  "authorUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+                  "controlDate": "2018-04-17T17:41:00",
+                  "sendingDate": "2018-04-17T17:41:00",
+                  "workOffDate": "2018-04-17T17:43:00",
+                  "completeDate": "2018-04-17T17:43:00",
+                  "id": 1151587,
+                  "name": "Лосева М.С.",
+                  "userUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+                  "created": "2018-04-17T17:43:00",
+                  "modified": "2018-04-17T17:43:00"
+                }
+              ],
+              "order": 1,
+              "authorUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+              "controlDate": "2018-04-17T17:41:00",
+              "sendingDate": "2018-04-17T17:41:00",
+              "workOffDate": "2018-04-17T17:43:00",
+              "completeDate": "2018-04-17T17:43:00",
+              "isEditable": true,
+              "id": 160962,
+              "name": "Этап",
+              "userUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+              "created": "2018-04-17T17:43:00",
+              "modified": "2018-04-17T17:43:00"
+            },
+            {
+              "state": 3,
+              "children": [
+                160964
+              ],
+              "parents": [
+                160962
+              ],
+              "stations": [
+                {
+                  "state": 3,
+                  "description": "Согласовано",
+                  "receiverUid": "626becc9-d59f-465c-9eaa-369179d5f527",
+                  "receiverUID": "626becc9-d59f-465c-9eaa-369179d5f527",
+                  "resolutionAuthorUid": "626becc9-d59f-465c-9eaa-369179d5f527",
+                  "approvalResult": 2,
+                  "viewDate": "2018-04-17T17:43:00",
+                  "signatureType": 2,
+                  "operations": 384,
+                  "order": 1,
+                  "authorUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+                  "controlDate": "2018-04-17T23:59:00",
+                  "sendingDate": "2018-04-17T17:41:00",
+                  "workOffDate": "2018-04-17T17:45:00",
+                  "id": 1151588,
+                  "name": "Чамара Денис Петрович",
+                  "userUid": "626becc9-d59f-465c-9eaa-369179d5f527",
+                  "created": "2018-04-17T17:43:00",
+                  "modified": "2018-04-17T17:45:00"
+                }
+              ],
+              "order": 2,
+              "authorUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+              "controlDate": "2018-04-17T23:59:00",
+              "sendingDate": "2018-04-17T17:41:00",
+              "workOffDate": "2018-04-17T17:45:00",
+              "isEditable": true,
+              "id": 160963,
+              "name": "Этап",
+              "userUid": "626becc9-d59f-465c-9eaa-369179d5f527",
+              "created": "2018-04-17T17:43:00",
+              "modified": "2018-04-17T17:45:00"
+            },
+            {
+              "state": 1,
+              "stageType": 7,
+              "controlDuration": 1439,
+              "parents": [
+                160963
+              ],
+              "stations": [
+                {
+                  "state": 2,
+                  "receiverUid": "626becc9-d59f-465c-9eaa-369179d5f527",
+                  "receiverUID": "626becc9-d59f-465c-9eaa-369179d5f527",
+                  "viewDate": "2018-05-04T12:30:00",
+                  "operations": 112,
+                  "order": 1,
+                  "authorUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+                  "controlDate": "2018-04-17T23:59:00",
+                  "sendingDate": "2018-04-17T17:45:00",
+                  "id": 1151589,
+                  "name": "Чамара Д.П.",
+                  "userUid": "626becc9-d59f-465c-9eaa-369179d5f527",
+                  "created": "2018-04-17T17:43:00",
+                  "modified": "2018-04-17T17:45:00"
+                }
+              ],
+              "isDigitalSignRequired": true,
+              "order": 3,
+              "authorUid": "d6c55cbc-4cf2-4ff8-af02-5f40f7a6dadc",
+              "controlDate": "2018-04-17T23:59:00",
+              "sendingDate": "2018-04-17T17:45:00",
+              "isEditable": true,
+              "id": 160964,
+              "name": "Этап",
+              "userUid": "626becc9-d59f-465c-9eaa-369179d5f527",
+              "created": "2018-04-17T17:43:00",
+              "modified": "2018-04-17T17:45:00"
+            }
+          ],
+          "id": 237377,
+          "name": "Новый шаблон маршрута",
+          "created": "2018-04-17T17:43:00",
+          "modified": "2018-04-17T17:45:00"
+        }
+      ]
+    }
+  ]
+}
