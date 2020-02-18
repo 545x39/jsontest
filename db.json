@@ -1,0 +1,318 @@
+{"server": "4.14.1.0",
+  "user": {
+    "uid": "626becc9-d59f-465c-9eaa-369179d5f527",
+    "rights": [
+      1,
+      5,
+      7,
+      10,
+      12,
+      19,
+      26,
+      27,
+      29,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      41,
+      42,
+      43,
+      44,
+      45,
+      50,
+      80,
+      100,
+      101,
+      102,
+      120,
+      122,
+      132,
+      134,
+      138,
+      140,
+      141,
+      142,
+      145,
+      152,
+      153,
+      154,
+      156,
+      159,
+      163,
+      164,
+      165,
+      166,
+      167,
+      169,
+      171,
+      175,
+      176,
+      177,
+      178,
+      186
+    ]
+  },
+  "dataFilter": 51,
+  "version": {
+    "main": 31776674,
+    "global": 31771870,
+    "settings": 331
+  },
+  "settings": [
+    {
+      "key": "ResolutionTemplates",
+      "value": "На рассмотрение |  В работу | Для ознакомления | Прошу подготовить ответ | Прошу провести экспертизу | Прошу подготовить заключение | Прошу подготовить предложения |Прошу проверить данную информацию и подготовить  соответствующие документы | Согласовано, прошу принять в работу "
+    },
+    {
+      "key": "ResolutionReportTemplates",
+      "value": "Принято к сведению|Подготовлен ответ|Решено в рабочем порядке|Учтено в работе"
+    },
+    {
+      "key": "SequenceStatisticMove",
+      "type": 1,
+      "value": "1"
+    },
+    {
+      "key": "IncludeOutgoingDocuments",
+      "type": 5,
+      "value": "1"
+    },
+    {
+      "key": "ApproveAllResolutionProjects",
+      "type": 5,
+      "value": "0"
+    },
+    {
+      "key": "MedoDigitalSignatureColor",
+      "type": 9,
+      "value": "малиновый (#DC143C)"
+    },
+    {
+      "key": "UseSignaturePlugin",
+      "type": 5,
+      "value": "1"
+    },
+    {
+      "key": "SimpleDigitalSignatureColor",
+      "type": 9,
+      "value": "голубой (#00BFFF)"
+    }
+  ],
+  "workbench": {
+    "desktops": [
+      {
+        "id": 3588,
+        "widgets": [
+          {
+            "id": 24564,
+            "type": 289
+          },
+          {
+            "id": 25167,
+            "type": 286
+          },
+          {
+            "id": 25328,
+            "type": 17
+          },
+          {
+            "id": 16389,
+            "type": 266
+          },
+          {
+            "id": 16390,
+            "type": 277
+          },
+          {
+            "id": 21872,
+            "type": 146
+          },
+          {
+            "id": 25419,
+            "type": 210
+          },
+          {
+            "id": 25999,
+            "type": 209
+          },
+          {
+            "id": 26538,
+            "type": 299
+          },
+          {
+            "id": 25643,
+            "type": 31
+          },
+          {
+            "id": 25807,
+            "type": 163
+          },
+          {
+            "id": 25998,
+            "type": 208
+          },
+          {
+            "id": 16377,
+            "type": 32
+          },
+          {
+            "id": 16378,
+            "type": 33
+          },
+          {
+            "id": 16380,
+            "type": 191
+          },
+          {
+            "id": 16374,
+            "type": 59
+          },
+          {
+            "id": 16375,
+            "type": 137
+          },
+          {
+            "id": 16376,
+            "type": 17
+          },
+          {
+            "id": 16381,
+            "type": 187
+          },
+          {
+            "id": 16385,
+            "type": 150
+          },
+          {
+            "id": 16386,
+            "type": 160
+          },
+          {
+            "id": 16382,
+            "type": 188
+          },
+          {
+            "id": 16383,
+            "type": 182
+          }
+        ],
+        "shortcuts": [
+          {
+            "id": 26283,
+            "type": 307
+          },
+          {
+            "id": 16388,
+            "type": 201
+          },
+          {
+            "id": 16384,
+            "type": 198
+          }
+        ]
+      },
+      {
+        "id": 4998,
+        "widgets": [
+          {
+            "id": 26723,
+            "type": 290
+          },
+          {
+            "id": 26724,
+            "type": 289
+          },
+          {
+            "id": 26721,
+            "type": 297
+          },
+          {
+            "id": 26722,
+            "type": 299
+          }
+        ]
+      },
+      {
+        "id": 3589,
+        "widgets": [
+          {
+            "absentExecutiveUid": "b317f587-0b3a-4e35-b3bb-9b70f639bbaa",
+            "absentExecutiveUID": "b317f587-0b3a-4e35-b3bb-9b70f639bbaa",
+            "id": 22634,
+            "type": 190
+          },
+          {
+            "absentExecutiveUid": "00000000-0000-0000-0000-000000000000",
+            "absentExecutiveUID": "00000000-0000-0000-0000-000000000000",
+            "id": 22633,
+            "type": 189
+          },
+          {
+            "absentExecutiveUid": "b317f587-0b3a-4e35-b3bb-9b70f639bbaa",
+            "absentExecutiveUID": "b317f587-0b3a-4e35-b3bb-9b70f639bbaa",
+            "id": 22636,
+            "type": 161
+          },
+          {
+            "absentExecutiveUid": "b317f587-0b3a-4e35-b3bb-9b70f639bbaa",
+            "absentExecutiveUID": "b317f587-0b3a-4e35-b3bb-9b70f639bbaa",
+            "id": 22635,
+            "type": 151
+          },
+          {
+            "absentExecutiveUid": "b317f587-0b3a-4e35-b3bb-9b70f639bbaa",
+            "absentExecutiveUID": "b317f587-0b3a-4e35-b3bb-9b70f639bbaa",
+            "id": 22630,
+            "type": 39
+          },
+          {
+            "absentExecutiveUid": "b317f587-0b3a-4e35-b3bb-9b70f639bbaa",
+            "absentExecutiveUID": "b317f587-0b3a-4e35-b3bb-9b70f639bbaa",
+            "id": 22629,
+            "type": 139
+          },
+          {
+            "absentExecutiveUid": "b317f587-0b3a-4e35-b3bb-9b70f639bbaa",
+            "absentExecutiveUID": "b317f587-0b3a-4e35-b3bb-9b70f639bbaa",
+            "id": 22632,
+            "type": 40
+          },
+          {
+            "absentExecutiveUid": "00000000-0000-0000-0000-000000000000",
+            "absentExecutiveUID": "00000000-0000-0000-0000-000000000000",
+            "id": 22631,
+            "type": 38
+          }
+        ]
+      },
+      {
+        "id": 3590,
+        "widgets": [
+          {
+            "id": 16410,
+            "type": 74
+          },
+          {
+            "id": 16407,
+            "type": 64
+          }
+        ]
+      },
+      {
+        "id": 3591,
+        "widgets": [
+          {
+            "id": 16411,
+            "type": 41
+          }
+        ]
+      }
+    ]
+  }
+}
