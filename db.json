@@ -91,16 +91,6 @@
           ]
         }
       ],
-      "attachments": [
-        {
-          "isPrimary": true,
-          "version": 1,
-          "size": 25135,
-          "lastAccess": "0001-01-01T00:00:00",
-          "uid": "055d4167-937c-4258-95ae-5fd37d39c22f",
-          "name": "Текст поручения.pdf"
-        }
-      ],
       "considerationStations": [
         {
           "id": 1151585,
